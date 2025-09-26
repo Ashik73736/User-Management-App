@@ -1,4 +1,3 @@
-// src/store/auth/reducer.js
 import { createSlice } from "@reduxjs/toolkit";
 import { login } from "./actions";
 

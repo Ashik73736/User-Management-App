@@ -1,4 +1,3 @@
-// src/components/UsersPage/UsersTable.js
 import React from "react";
 import { Table, Avatar, Button, Popconfirm } from "antd";
 

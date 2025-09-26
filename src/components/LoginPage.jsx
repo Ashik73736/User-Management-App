@@ -1,4 +1,3 @@
-// src/components/LoginPage.js
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { login } from "../store/auth/actions";
